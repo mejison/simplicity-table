@@ -5,12 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Project running
 ```
 npm run storybook:serve
 ```
 
-### Unit tests
+### Project tests
 ```
 npm run test
 ```
