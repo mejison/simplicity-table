@@ -1,6 +1,6 @@
 # table-project
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
